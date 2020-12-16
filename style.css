@@ -1,0 +1,35 @@
+.timmy {
+    border-radius: 50%;
+    width: 200px;
+    margin-bottom: 50px
+}
+
+body {
+    text-align: center;
+    margin: 0;
+}
+.division1{
+    padding-top: 50px;
+}
+#sec1{
+    background:linear-gradient(cyan 0%,darkblue 100%);
+    opacity: 1;
+    height: 800px;
+    color: white;
+}
+#sec2{
+    padding: 50px;
+    font-size: 20px;
+}
+p{
+    max-width: 450px;
+    margin: auto;
+    font-size: 15px;
+    line-height: 1.3;
+}
+.line{
+    height: 5px;
+    width: 70px;
+    background-color: black;
+    margin: auto;
+}
