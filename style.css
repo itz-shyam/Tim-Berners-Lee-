@@ -1,0 +1,76 @@
+.timmy {
+    border-radius: 50%;
+    width: 200px;
+    margin-bottom: 50px
+}
+
+body {
+    text-align: center;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.division1 {
+    padding-top: 50px;
+}
+
+#sec1 {
+    background: linear-gradient(cyan 0%, darkblue 100%);
+    opacity: 1;
+    height: 800px;
+    color: white;
+}
+
+#sec2 {
+    padding: 50px;
+    font-size: 20px;
+}
+
+p {
+    max-width: 450px;
+    margin: auto;
+    font-size: 15px;
+    line-height: 1.3;
+}
+
+.line {
+    height: 5px;
+    width: 300px;
+    background-color: lightblue;
+    margin: auto;
+}
+
+.unord {
+    position: fixed;
+    background: white;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 10;
+}
+
+.lii {
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: 'Hanalei Fill', cursive;
+    font-size: 20px
+}
+
+.lii:hover {
+    background-color: crimson;
+    font-size: 25px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+a {
+    text-decoration: none
+}
+
+.wrote_by_tim:hover {
+    color: aqua;
+}
+
+#map {
+    width: 100%;
+}
